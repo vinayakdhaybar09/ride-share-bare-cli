@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "1",
+      "userName": "Pravin kumar",
+      "startingTime": "11:30 am",
+      "price": "50",
+      "availableSeat": "1",
+      "userImg": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706918400&semt=ais"
+    },
+    {
+      "_id": "2",
+      "userName": "Shravani patil",
+      "startingTime": "11:30 am",
+      "price": "100",
+      "availableSeat": "1",
+      "userImg": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706918400&semt=ais"
+    },
+    {
+      "_id": "3",
+      "userName": "Ajay Patil",
+      "startingTime": "11:30 am",
+      "price": "250",
+      "availableSeat": "1",
+      "userImg": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706918400&semt=ais"
+    }
+  ]
+  
